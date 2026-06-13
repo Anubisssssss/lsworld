@@ -1,0 +1,3 @@
+# 👮 Règlement RP Légal
+
+<div class="rules-grid"><a class="rule-button" href="lspd-bcso/"><span class="rule-icon">🚓</span><div><h3>LSPD / BCSO</h3><p>Procédures et interventions.</p></div><span class="rule-arrow">›</span></a><a class="rule-button" href="ems/"><span class="rule-icon">🚑</span><div><h3>EMS</h3><p>Médical et hôpital.</p></div><span class="rule-arrow">›</span></a><a class="rule-button" href="gouvernement/"><span class="rule-icon">⚖️</span><div><h3>Gouvernement</h3><p>Autorité civile.</p></div><span class="rule-arrow">›</span></a><a class="rule-button" href="entreprises/"><span class="rule-icon">🏢</span><div><h3>Entreprises</h3><p>Gestion et employés.</p></div><span class="rule-arrow">›</span></a></div>
