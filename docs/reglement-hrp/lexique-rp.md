@@ -1,0 +1,3 @@
+# 📒 Lexique RP
+
+<div class="faq"><details><summary>Mal de tête</summary><p>Crash ou problème visuel.</p></details><details><summary>Tempête</summary><p>Redémarrage du serveur.</p></details><details><summary>Unité X</summary><p>Retour à l'hôpital.</p></details><details><summary>Papillon</summary><p>Staff.</p></details><details><summary>Faire une sieste</summary><p>Déco/reco.</p></details><details><summary>Aller dormir</summary><p>Quitter le serveur.</p></details><details><summary>Parler chinois</summary><p>Parler HRP.</p></details><details><summary>Déchirement de visa</summary><p>Ban.</p></details><details><summary>Muscle</summary><p>Touche clavier.</p></details><details><summary>GoPro / Dashcam</summary><p>Enregistrement ou live.</p></details></div>

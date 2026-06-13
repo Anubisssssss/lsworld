@@ -1,0 +1,3 @@
+# 🎛️ Règles en jeu
+
+<div class="faq"><details open><summary>Respect</summary><p>Insultes HRP, provocations personnelles, menaces réelles, harcèlement et toxicité sont interdits.</p></details><details><summary>Finir ses scènes</summary><p>Une scène commencée doit être jouée jusqu'au bout. En cas de problème, ouvrez un ticket après la scène.</p></details><details><summary>Déconnexion en scène</summary><p>Se déconnecter volontairement pendant une scène est interdit.</p></details><details><summary>Usebug / glitch</summary><p>Tout bug exploité volontairement entraîne une sanction.</p></details></div>
