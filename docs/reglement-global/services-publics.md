@@ -1,0 +1,3 @@
+# 🚔 Services publics
+
+<div class="faq"><details open><summary>EMS</summary><p>Il est interdit de tirer sur un EMS en service, de déplacer un corps pour empêcher une intervention, ou de négocier une ATA sous menace.</p></details><details><summary>Police</summary><p>Le fear police doit être respecté. Le copbait et les appels abusifs sont interdits.</p></details><details><summary>Gouvernement</summary><p>Les attaques contre le gouvernement doivent rester exceptionnelles et justifiées RP.</p></details><details><summary>Entreprises</summary><p>Les entreprises ouvertes sont protégées. Braquer un employé en service est interdit.</p></details></div>
