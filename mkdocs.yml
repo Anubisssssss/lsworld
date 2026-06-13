@@ -1,0 +1,81 @@
+site_name: LS World
+site_description: Règlement officiel LS World Roleplay
+site_url: https://anubisssssss.github.io/lsworld-docs/
+
+theme:
+  name: material
+  language: fr
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    scheme: slate
+    primary: black
+    accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/lsworld
+
+nav:
+  - Accueil: index.md
+  - Débuter: debut.md
+  - Patchnotes: patchnotes.md
+  - Règlement HRP:
+      - Vue d'ensemble: reglement-hrp/index.md
+      - Règles en jeu: reglement-hrp/regles-en-jeu.md
+      - Lexique RP: reglement-hrp/lexique-rp.md
+      - Notions de base RP: reglement-hrp/notions-rp.md
+      - Règlement Ticket: reglement-hrp/tickets.md
+      - Règlement Streameur: reglement-hrp/streameur.md
+      - Discord: reglement-hrp/discord.md
+  - Règlement Global:
+      - Vue d'ensemble: reglement-global/index.md
+      - Règles basiques: reglement-global/regles-basiques.md
+      - RP Animalier: reglement-global/rp-animalier.md
+      - Services Publics: reglement-global/services-publics.md
+      - Zones Safes: reglement-global/zones-safes.md
+      - Véhicules & conduite: reglement-global/vehicules.md
+  - Règlement RP Légal:
+      - Vue d'ensemble: reglement-legal/index.md
+      - LSPD / BCSO: reglement-legal/lspd-bcso.md
+      - EMS: reglement-legal/ems.md
+      - Gouvernement: reglement-legal/gouvernement.md
+      - Entreprises: reglement-legal/entreprises.md
+      - Activités légales: reglement-legal/activites-legales.md
+  - Règlement RP Illégal:
+      - Vue d'ensemble: reglement-illegal/index.md
+      - Règlement Illégal: reglement-illegal/reglement-illegal.md
+      - Organisations & gangs: reglement-illegal/organisations.md
+      - Braquages: reglement-illegal/braquages.md
+      - Prises d'otage: reglement-illegal/prises-otage.md
+      - Gunfight & scènes violentes: reglement-illegal/gunfight.md
+      - Drogues & activités: reglement-illegal/drogues.md
+      - Loot & rançons: reglement-illegal/loot-rancons.md
+      - Îles & zones spéciales: reglement-illegal/iles.md
+  - Guide LS World:
+      - Se connecter: guide/se-connecter.md
+      - Boutique: guide/boutique.md
+      - Optimisation PC / FiveM: guide/optimisation.md
+      - Problèmes fréquents: guide/bugs.md
